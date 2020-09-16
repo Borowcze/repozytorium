@@ -1,1 +1,2 @@
-Ala ma psa ale na branch master.
+Ala ma psa ale na branch master i rybki na testing.
+
